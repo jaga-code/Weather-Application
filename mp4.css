@@ -1,6 +1,7 @@
 *{
     padding:0;
     margin:0;
+    background-color: #1d5fa1;
 }
 
 body{
@@ -23,10 +24,11 @@ body{
 
 .input input{
     padding:10px;
-    border:none;
+    border:2px solid #fff;
     border-radius:5px;
     font-size:16px;
     width:200px;
+    margin:auto;
 }
 
 .input button{
@@ -41,10 +43,11 @@ body{
 
 .weather-box{
     height:200px;
-    border:2px  solid black;
+    border:5px  solid black;
     margin-top:50px;
-    padding:20px;
+    padding:30px;
     border-radius:5px;
+    background-color: #b2d1ec;
 }
 
 .icon{
